@@ -1,5 +1,3 @@
 <?php
 
-echo "Hello git world";
-
-?>s
+echo "Hello git world";?>
